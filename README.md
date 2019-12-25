@@ -1,5 +1,5 @@
 # Laplacian-Blob-Detector
-Generated a Laplacian of Gaussian filter, built a Laplacian scale space and performed non-maximum suppression to find the blobs in the image using Python and OpenCV.
+Generate a Laplacian of Gaussian filter, build a Laplacian scale space and perform non-maximum suppression to find the blobs in the image using Python and OpenCV.
 
 
 Please go through the description file for detailed explaination of the implementation and sample output images. 
