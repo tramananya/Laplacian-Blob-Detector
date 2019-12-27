@@ -3,4 +3,6 @@ Generate a Laplacian of Gaussian filter, build a Laplacian scale space and perfo
 
 
 Please go through the description file for detailed explaination of the implementation and sample output images. 
+
+
 NOTE: All the images have been taken from google. 
